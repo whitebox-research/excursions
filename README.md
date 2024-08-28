@@ -13,7 +13,7 @@ This is a repository of materials (demonstrations, write-ups, and prototypes) fo
 
 **For write-ups**: we recommend making edits through [GitHub's UI](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) so you can preview the Markdown properly.
 
-**For demos/prototypes**: follow the [development setup]() section below.
+**For demos/prototypes**: follow the [development setup](https://github.com/whitebox-research/excursions?tab=readme-ov-file#excursion-how) section below.
 
 In general, the most convenient way to contribute to this repository is to obtain a local copy, then use the corresponding [GitHub Project](https://github.com/orgs/whitebox-research/projects/7) to start an [excursion](https://github.com/zrkrlc/excursions/edit/main/README.md#excursion-what).
 
